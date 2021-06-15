@@ -28,17 +28,19 @@ Project is created with:
 * https://efdsearch.senate.gov/search/home/
 
 ## Trades summary
-* Seasonality is well calendar effect in markets worth investigating in case of planning trading/investing for longer period of time. Seasonal patterns are constructed by plotting daily data against calendar/trading days rather than simply averaging daily/weekly/monthly data. Such daily data has proven to be far more valuable when looking for consistent and precise entry and exit dates.
-* The following chart reflect seasonal patterns for SPX index over the period of a calendar year. Long term studies tend to survive for decades and as we can see very little changes of long term seasonal patterns occured during last 60 years.
+* 
 ![Trades](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/num%20of%20trades.png)
-* Closer look on individual months will help with timeing entries and exists. For example: second half of October is usually good time to initiate long term LONG possition in SPX/ES/SPDR with a potential of holding till the end of the calendar year and catching historically strongest period of the year.
+
+## Trades summary
+* 
 ![Amount](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/amount%20of%20shares%20(M).png)
+
 ## Mid term study Example
-*  Study of weekly volatility during the year. Data for last 20 years indicates October is the most volatile month of the year.
+* 
 ![Best](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/best%20trades.png) 
 
 ## Short term study Example
-*  Releationship between RTH range and IB range for different opening types and days of the week. Useing Seaborn-Implot to fit regression models across conditional subsets of a dataset.
+* 
 ```python
 sns.set_theme(style="whitegrid")
 sns.barplot(x="Senator", y="Amount(Avg)", data=df2, ci=None, palette="YlGnBu")
