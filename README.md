@@ -8,7 +8,7 @@
 * [Short term study Example](#short-term-study-example)
 
 ## General info
-* The 2020 congressional insider trading scandal was a political scandal in the United States involving allegations that several members of the United States Senate violated the   STOCK Act by selling stock at the start of COVID-19 pandemic in the United States and just before a stock market crash on February 20, 2020, using knowledge given to them at a   closed Senate meeting. The Department of Justice initiated a probe into the stock transactions on March 30, 2020. No charges were brought against anyone and all investigations   into the matter are closed. (source: wikipedia)
+The 2020 congressional insider trading scandal was a political scandal in the United States involving allegations that several members of the United States Senate violated the   STOCK Act by selling stock at the start of COVID-19 pandemic in the United States and just before a stock market crash on February 20, 2020, using knowledge given to them at a   closed Senate meeting. The Department of Justice initiated a probe into the stock transactions on March 30, 2020. No charges were brought against anyone and all investigations   into the matter are closed. (source: wikipedia)
  
 ## Methodology
 Starting point of analysis will be January 24 (Closed meeting held on January 24, 2020) and any seles made by senators up to February 26 is considered for analysis (start of the crash February 26). Focus will be on 4 senators that were investigated by Justice Department and the FBI following the trading scandal.
@@ -28,11 +28,9 @@ Project is created with:
 * https://efdsearch.senate.gov/search/home/
 
 ## Trades summary
-* 
+* During the 33 day period most active David Perdue sold 44 times with combined value of almost $3.5 MM. James Inhofe sold only 8 time but value of shares he sold was $4.22 MM. Richar Burr is the only one that after the scandal step down from the intelligence committee. He sold only (compared to others) 29 times with a value of $1.1 MM. Kelly Loeffler made 41 transactions of $2.68 MM.
 ![Trades](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/num%20of%20trades.png)
 
-## Trades summary
-* 
 ![Amount](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/amount%20of%20shares%20(M).png)
 
 ## Mid term study Example
