@@ -12,10 +12,10 @@
  
 ## Methodology
 Starting point of analysis will be January 24 (Closed meeting held on January 24, 2020) and any seles made by senators up to February 26 is considered for analysis (start of the crash February 26). Focus will be on 4 senators that were investigated by Justice Department and the FBI following the trading scandal.
-* 1) Richard Burr
-* 2) Kelly Loeffler
-* 3) James Mountain Inhofe
-* 4) David Alfred Perdue Jr
+1) Richard Burr
+2) Kelly Loeffler
+3) James Mountain Inhofe
+4) David Alfred Perdue Jr
 * Interesting fact is that Congress Member are expected to report the transaction within 30 days and median delay in dataset was 28 days.
 
 ## SW & libraries
