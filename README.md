@@ -36,7 +36,7 @@ Project is created with:
 ![Amount](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/amount%20of%20shares%20(M).png)
 
 ## Best trades (senator - ticker)
-* 10 best trades by senators have a clear winner. David Perdue is presented 7 times in top 10 list and absolute best trade in (CZR) Ceasars Entertainment saved David Perdue -83% drop in stock prices. Interesting observation is that senators mainly sold stock releated to hospitality and entertainment industries or that Richard Burr reassured US public the USA is well prepeared for the pandemic and in next two weeks sold more than $1MM of stocks.
+* 10 best trades by senators have a clear winner. David Perdue is presented 7 times in top 10 list and absolute best trade in (CZR) Ceasars Entertainment saved David Perdue -83% drop in stock prices. Interesting observation is that senators mainly sold stock releated to hospitality and entertainment industries or that Richard Burr reassured US public the USA is well prepeared for the pandemic and in next two weeks sold more than $1M of stocks.
 ![Best](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/best%20trades.png) 
 
 ## Money saved
