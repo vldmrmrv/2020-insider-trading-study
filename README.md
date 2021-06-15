@@ -44,7 +44,6 @@ Project is created with:
 ```python
 sns.set_theme(style="whitegrid")
 sns.barplot(x="Senator", y="Amount(Avg)", data=df2, ci=None, palette="YlGnBu")
-plt.ylabel('$ Amount of shares sold (Millions)')
 plt.show()
 ```
 ![Saved](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/saved%20in%20millions.png)
