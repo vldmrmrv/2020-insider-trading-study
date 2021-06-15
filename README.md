@@ -3,9 +3,9 @@
 * [Methodology](#methodology)
 * [SW & libraries](#sw-&-libraries)
 * [Data](#data)
-* [Seasonality Example](#seasonality-example)
-* [Mid term study Example](#mid-term-study-example)
-* [Short term study Example](#short-term-study-example)
+* [Trades summary](#trades-summary)
+* [Best trades](#best-trades)
+* [Money saved](#money-saved)
 
 ## General info
 The 2020 congressional insider trading scandal was a political scandal in the United States involving allegations that several members of the United States Senate violated the   STOCK Act by selling stock at the start of COVID-19 pandemic in the United States and just before a stock market crash on February 20, 2020, using knowledge given to them at a   closed Senate meeting. The Department of Justice initiated a probe into the stock transactions on March 30, 2020. No charges were brought against anyone and all investigations   into the matter are closed now. (source: wikipedia)
