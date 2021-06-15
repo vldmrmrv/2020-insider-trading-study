@@ -30,7 +30,7 @@ Project is created with:
 ## Trades summary
 * During the 33 day period most active David Perdue sold 44 times with combined value of almost $3.5 MM. James Inhofe sold only 8 time but value of shares he sold was $4.22 MM. Richar Burr is the only one that after the scandal step down from the intelligence committee. He sold only (compared to others) 29 times with a value of $1.1 MM. Kelly Loeffler made 41 transactions of $2.68 MM.
 
-![Trades](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/num%20of%20trades.png)
+![Trades](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/num%20of%20trades.png) ![Amount](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/amount%20of%20shares%20(M).png)
 
 ![Amount](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/amount%20of%20shares%20(M).png)
 
