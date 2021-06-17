@@ -40,7 +40,7 @@ Project is created with:
 ![Best](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/best%20trades.png) 
 
 ## Money saved
-* Finally last chart showing $ amount of money saved by well timed solds. David Perdue saved most of the four, approximately $2.2M in upcoming market crash. Kelly Loeffler +1.0M, James Inhofe +$874K and Richard Burr +$475K.
+* Finally last chart showing $ amount of money saved by well timed solds. David Perdue saved most of the four, approximately $2.2M in upcoming market crash. Kelly Loeffler $1.0M, James Inhofe $874K and Richard Burr $475K.
 
 ![Saved](https://github.com/vldmrmrv/2020-insider-trading-study/blob/master/charts/saved%20in%20millions.png)
 
