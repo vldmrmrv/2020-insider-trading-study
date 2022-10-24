@@ -17,7 +17,8 @@ Starting point of analysis will be January 24 (Closed meeting held on January 24
 3) James Mountain Inhofe
 4) David Alfred Perdue Jr
 * Interesting fact is that Congress Member are expected to report the transaction within 30 days and median delay in dataset was 28 days.
-* There is no disclosure for exact amount of money invested only price ranges (e.g., $100K - $200K) so for calculations of $ amounts of trades is used average of the given range.
+* There is no disclosure for exact amount of money invested only price ranges 
+(e.g., $100K - $200K) so for calculations of $ amounts of trades is used average of the given range.
 
 ## SW & libraries
 Project is created with:
