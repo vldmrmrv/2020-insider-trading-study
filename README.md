@@ -23,7 +23,7 @@ Starting point of analysis will be January 24 (Closed meeting held on January 24
 Project is created with:
 * PyCharm 2021 (Community Edition)
 * Python version: 3.8.5
-* Python libraries: matplotlib, pandas, seaborn, numpy, BeautifulSoup
+* Python libraries: matplotlib, pandas, seaborn, numpy, BeautifulSoup, requests
 
 ## Data
 * https://efdsearch.senate.gov/search/home/
